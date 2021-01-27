@@ -21,9 +21,11 @@
   flex: 1;
   display: flex;
   justify-content: center;
+  list-style-type: none;
+  text-decoration: none;
 }
 
-.header__center > p {
+.header__center > li {
   margin: 10px;
   text-transform: uppercase;
 }
@@ -32,9 +34,11 @@
   display: flex;
   justify-content: flex-end;
   text-transform: uppercase;
+  list-style-type: none;
+  text-decoration: none;
 }
 
-.header__right > p {
+.header__right > li {
   margin: 10px;
   text-transform: uppercase;
 }

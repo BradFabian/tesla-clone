@@ -2,26 +2,26 @@ import React from 'react';
 import './Header.css';
 import TeslaLogo from '../assets/teslaLogoSmall.svg'
 const Header = () => { return(
-<div clasName='header'>
-<div className='header_logo'>
+<div className='header'>
+<div className='header__logo'>
     <img src={TeslaLogo} alt='Tesla Logo'/>
 
 </div>
 
-<div className="header__center">
-<p>Model S</p>
-<p>Model 3</p>
-<p>Model X</p>
-<p>Model Y</p>
-<p>Solar Roof</p>
-<p>Solar panel</p>
-</div>
+<ul className="header__center">
+<li>Model S</li>
+<li>Model 3</li>
+<li>Model X</li>
+<li>Model Y</li>
+<li>Solar Roof</li>
+<li>Solar panel</li>
+</ul>
 
-<div className="header__right">
-<p>Shop</p>
-<p>Tesla Account</p>
+<ul className="header__right">
+<li>Shop</li>
+<li>Tesla Account</li>
 
-</div>
+</ul>
 </div>
 )
 }
