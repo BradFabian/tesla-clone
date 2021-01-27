@@ -32,10 +32,12 @@
 
 .header__right {
   display: flex;
-  justify-content: flex-end;
+  justify-content: space-around;
+
   text-transform: uppercase;
   list-style-type: none;
   text-decoration: none;
+  margin-right: 40px;
 }
 
 .header__right > li {

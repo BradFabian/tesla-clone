@@ -25,79 +25,79 @@ function App() {
         leftBtnLink=''
         rightBtnText='LEARN MORE'
         rightBtnLink=''
-        twoButtons='true'
+        twoButtons={true}
         first
         ></Item>
          <Item
-        title='Lowes Cost Solar Panels in America'
-        desc='Money-back gurantee'
+        title='Model S'
+        desc='Starting at $69,420'
         descLink=''
         backgroundImg={ModelS}
-        leftBtnText='ORDER NOW'
+        leftBtnText='CUSTOM ORDER'
         leftBtnLink=''
-        rightBtnText='LEARN MORE'
+        rightBtnText='EXISTING INVENTORY'
         rightBtnLink=''
-        twoButtons='true'
+        twoButtons={true}
         
         ></Item>
          <Item
-        title='Lowes Cost Solar Panels in America'
-        desc='Money-back gurantee'
+        title='MODEL 3'
+        desc='Order Online for Touchless Delivery'
         descLink=''
         backgroundImg={Model3}
-        leftBtnText='ORDER NOW'
+        leftBtnText='CUSTOM ORDER'
         leftBtnLink=''
-        rightBtnText='LEARN MORE'
+        rightBtnText='EXISTING INVENTORY'
         rightBtnLink=''
-        twoButtons='true'
+        twoButtons={true}
       
         ></Item>
          <Item
-        title='Lowes Cost Solar Panels in America'
-        desc='Money-back gurantee'
+        title='Model X'
+        desc='Order Online for Touchless Delivery'
         descLink=''
         backgroundImg={ModelX}
-        leftBtnText='ORDER NOW'
+        leftBtnText='CUSTOM ORDER'
         leftBtnLink=''
-        rightBtnText='LEARN MORE'
+        rightBtnText='EXISTING INVENTORY'
         rightBtnLink=''
-        twoButtons='true'
+        twoButtons={true}
         
         ></Item>
          <Item
-        title='Lowes Cost Solar Panels in America'
-        desc='Money-back gurantee'
+        title='Model Y'
+        desc='Order Online for Touchless Delivery'
         descLink=''
         backgroundImg={ModelY}
-        leftBtnText='ORDER NOW'
+        leftBtnText='CUSTOM ORDER'
         leftBtnLink=''
-        rightBtnText='LEARN MORE'
+        rightBtnText='EXISTING INVENTORY'
         rightBtnLink=''
-        twoButtons='true'
+        twoButtons={true}
         
         ></Item>
          <Item
-        title='Lowes Cost Solar Panels in America'
-        desc='Money-back gurantee'
+        title='Solar for New Roofs'
+        desc='Solar Roof Costs Less Than a New Roof Plus Solar Panels'
         descLink=''
         backgroundImg={SolarRoof}
         leftBtnText='ORDER NOW'
         leftBtnLink=''
         rightBtnText='LEARN MORE'
         rightBtnLink=''
-        twoButtons='true'
+        twoButtons={true}
        
         ></Item>
          <Item
-        title='Lowes Cost Solar Panels in America'
-        desc='Money-back gurantee'
+        title='Accessories'
+        desc=''
         descLink=''
         backgroundImg={Accessories}
-        leftBtnText='ORDER NOW'
+        leftBtnText='SHOP NOW'
         leftBtnLink=''
         rightBtnText='LEARN MORE'
         rightBtnLink=''
-        twoButtons='false'
+        twoButtons={false}
         
         ></Item>
       
